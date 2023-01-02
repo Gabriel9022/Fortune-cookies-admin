@@ -1,0 +1,5 @@
+mutation modifyFortuneCookie ($id:String, $text:String){
+    modifyFortuneCookie (code:$id, text:$text ) {
+        nothing
+    }
+}

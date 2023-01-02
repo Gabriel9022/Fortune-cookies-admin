@@ -1,0 +1,7 @@
+mutation createFortuneCookie($text:String) {
+  createFortuneCookie(text:$text){
+    Id
+    Href
+    DocumentId
+  }
+}

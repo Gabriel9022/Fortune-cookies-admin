@@ -1,0 +1,7 @@
+query getSearchFortuneCookie ($text: String) {
+    getSearchFortuneCookie (text: $text){
+        id
+        text
+    }
+
+}

@@ -1,0 +1,6 @@
+{
+    "admin.app.table": {
+      "component": "adminTable",
+      "path": "/admin/app/cookiestable"
+    }
+  }

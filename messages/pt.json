@@ -1,4 +1,6 @@
 {
   "admin/test": "teste",
-  "store/test": "teste"
+  "store/test": "teste",
+  "admin-table.navigation.label": "Tabela de biscoitos",
+  "admin-table.navigation.search.kws": "biscoitos, tabela, fortuna"
 }

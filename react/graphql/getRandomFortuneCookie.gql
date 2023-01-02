@@ -1,0 +1,6 @@
+query getRandomFortuneCookie {
+    getRandomFortuneCookie {
+        id
+        text
+    }
+}

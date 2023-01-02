@@ -1,0 +1,6 @@
+query getAllFortuneCookie {
+    getAllFortuneCookie{
+        id
+        text
+    }
+}

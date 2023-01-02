@@ -1,0 +1,6 @@
+{
+  "section": "orders",
+  "titleId": "admin-table.navigation.label",
+  "path": "/admin/cookiestable",
+  "searchKeyWordsHelpers": "admin-table.navigation.search.kws"
+}

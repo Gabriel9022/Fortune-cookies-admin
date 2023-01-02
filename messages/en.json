@@ -1,4 +1,6 @@
 {
   "admin/test": "test",
-  "store/test": "test"
+  "store/test": "test",
+  "admin-table.navigation.label": "Cookies Table",
+  "admin-table.navigation.search.kws": "cookie, table, fortune"
 }
